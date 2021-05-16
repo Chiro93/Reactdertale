@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Determination Mono";
+}
+
+footer {
+  margin-top: 2em;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+header {
+  border-color: white;
+  border-style: solid;
+  padding-top: 1em;
+  text-align: center;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+/********************************************/
+/* Classes */
+/********************************************/
+
+/* Summary.jsx classes */
+.summary {
+  border-color: white;
+  border-style: solid;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+  padding-bottom: 1em;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 1em;
+}
+
+.summary-info {
+  text-align: justify;
+  margin-top: 1em;
+}
+
+
+/* Footer.jsx classes */
+.annoying-dog {
+  width: 15em;
+}
+
+.heart {
+  width: 0.8em;
+}
+
+/* Character.jsx classes */
+.character-info {
+  border-style: solid;
+  margin-top: 1em;
+  margin-right: 2em;
+  padding: 1em 1em 1em 1em;
+  text-align: center;
+}
+
+.papyrus {
+  width: 10em;
+}
+
+.sans {
+  width: 10em;
+}
+
+.flowey {
+  width: 10em;
+}
+
+.asgore {
+  width: 10em;
+}
+
+.toriel {
+  width: 5em;
+}
